@@ -1,7 +1,2 @@
 All this time I've spent with you
 All that we've been through
-Still we're holding on
-<<<<<<< HEAD
-All this time I've spent with you
-=======
->>>>>>> 2f840afde85741579d0a34ede70e3f7e9165e667
